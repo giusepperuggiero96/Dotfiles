@@ -1,2 +1,8 @@
 set number
 set scrolloff=4
+set autoindent
+set smartindent
+set tabstop=4
+set expandtab
+set ignorecase
+set smartcase
